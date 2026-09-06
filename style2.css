@@ -1,0 +1,24 @@
+.formatting{
+    background-color: rgba(231, 189, 218, 0.8);
+}
+
+
+
+.container{
+    width: 500px;
+    position: fixed;
+    background-color: rgba(231, 189, 218, 0.8);
+}
+.form-group{
+    width:60%;
+    display: flex;
+    justify-content: space-between;
+}
+.bg{
+    height: 800px;
+    background-attachment: scroll;
+    background-position: center;
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-image: url("ai poster.jpeg");
+}
